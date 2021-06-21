@@ -1,10 +1,11 @@
-
 <h1 align="center">
     IFOOD CLONE 
 </h1>
 <p align="center">
-    Aplicativo criado com ajuda do curso de react native da digital innovation one
+    Aplicativo criado no curso de react native da digital innovation one com o professor @pablohev
 </p>
+
+![image-20210621193130351](C:\Users\Gohan\AppData\Roaming\Typora\typora-user-images\image-20210621193130351.png)
 
 ## Passo a Passo
 
@@ -31,7 +32,8 @@ abrirá no navegador com as opções para abrir o app.
 
 ## EndPoints
 
-<p>Para consumir dados usamos uma api fake, usando os seguintes endpoints<p>
+<p>Para consumir dados usamos uma api fake já que não vamos pagar um servidor, usando os seguintes endpoints<p>
+
 
 | NOME         | ENDPOINT                                                                      |
 | ------------ | ----------------------------------------------------------------------------- |
@@ -43,5 +45,3 @@ abrirá no navegador com as opções para abrir o app.
 <br>
 <br>
 
-## Obrigado
-<p>Espero que tenham gostado, façam um fork deste projeto e crie sua versão e customizações e qualquer duvida só me enviar pelo [Linkedin](https://linkedin.com/in/pablohev), pode me mandar como está o projeto tbm, vou gostar de ver sua evolução, bons estudos :rocket:</p>
