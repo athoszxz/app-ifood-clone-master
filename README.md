@@ -32,7 +32,7 @@ abrirá no navegador com as opções para abrir o app.
 
 ## EndPoints
 
-<p>Para consumir dados usamos uma api fake já que não vamos pagar um servidor, usando os seguintes endpoints<p>
+<p>Para consumir dados usamos uma api fake já que não vou pagar um servidor, usei os seguintes endpoints<p>
 
 
 | NOME         | ENDPOINT                                                                      |
